@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m cedsam alias Sub.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Au travers de ce blog, j'essaye de vous donner ma perspective technique au
+      travers du métier et de la veille technologique que j'exerce.
   - section_id: about
     type: section_content
     title: About
