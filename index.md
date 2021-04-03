@@ -5,9 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hey, je suis cedsam.'
-    content: >
-      Au travers de ce blog, j'essaye de vous donner ma perspective technique
-      sur plusieurs sujets.
   - section_id: about
     type: section_content
     title: About
