@@ -17,7 +17,7 @@ header:
     - label: DATA
       url: /blog/
       style: link
-    - label: lorem-ipsum
+    - label: FINANCES
       url: '#'
       style: link
       icon_class: dev
