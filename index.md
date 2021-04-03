@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m cedsam alias Sub.'
+    title: 'Hey, je suis cedsam.'
     content: >
       Au travers de ce blog, j'essaye de vous donner ma perspective technique au
       travers du métier et de la veille technologique que j'exerce.
