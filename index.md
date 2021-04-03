@@ -7,7 +7,7 @@ sections:
     title: 'Hey, je suis cedsam.'
   - section_id: about
     type: section_content
-    title: About
+    title: A propos
     content: >+
       Au travers de ce blog, j'essaye de vous donner ma perspective technique
       sur plusieurs sujets.
