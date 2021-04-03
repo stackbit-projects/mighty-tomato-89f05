@@ -14,7 +14,7 @@ header:
   background: dark
   has_nav: true
   nav_links:
-    - label: Blog
+    - label: DATA
       url: /blog/
       style: link
     - label: About
