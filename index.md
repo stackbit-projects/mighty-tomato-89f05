@@ -2,17 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: about
-    type: section_content
-    title: A propos
-    content: >+
-      Au travers de ce blog, j'essaye de vous donner ma perspective technique
-      sur plusieurs sujets.
-
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
